@@ -1,0 +1,1 @@
+The file contains STATA commands (do-file) that were used in conducting the decomposition analysis of factors that influenced the socio-economic inequalities in future contraceptive use among women of reproductive age.
